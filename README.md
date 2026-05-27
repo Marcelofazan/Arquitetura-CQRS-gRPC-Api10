@@ -1,4 +1,4 @@
-## 🚀 Microservicos-Api10-CQRS
+## 🚀 Microservicos-Api10-gRPC-docker
 
 Exemplo de criação de Arquitetura distribuida CQRS com banco de dados Postgres.
 
