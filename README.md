@@ -171,7 +171,7 @@ Conexão com o Banco de dados
 - No o Servidor do **Postgres** parado em Serviços, crie uma conexão em porta diferente **mongodb://127.0.0.1:27018/** .
 
 
-### 🔄 Executar a aplicação [FRONTEND]
+### 🌍 Executar a aplicação [FRONTEND]
 
 - Recuperar as dependencias do projeto node_modules .
 ```bash
