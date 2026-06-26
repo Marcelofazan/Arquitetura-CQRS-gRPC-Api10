@@ -34,6 +34,7 @@ dotnet run
 VSCode Terminal [3]
 - Iniciar API 
 ```bash
+cd Producao 
 cd Sistema.Producao.API
 dotnet run --launch-profile https
 ```
