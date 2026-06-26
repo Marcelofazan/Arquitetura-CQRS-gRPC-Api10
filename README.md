@@ -12,6 +12,7 @@ Exemplo de projeto com Arquitetura CQRS com comunicação gRPC e MediatR, mensag
 #### 💬 Requisitos do Projeto
 - Necessário **Docker** instalado.
 - Realizar Migrations EntityFramework .NET
+- Necessário acomplamento de serviços, o Reporter depende da execução de Producao.
   
 ## 📁 Producao
 #### 🔄 Executar a aplicação
