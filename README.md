@@ -12,8 +12,9 @@ Exemplo de projeto com Arquitetura CQRS TLS/SSL com comunicação gRPC e MediatR
 | **Postgres (EF Core 10)** | Adaptador de Banco de Dados | Banco relacional ideal para manter a consistência e integridade das escritas do seu domínio. |
 
 #### 💬 Requisitos do Projeto
-- Necessário **Docker** instalado.
+- Necessário Docker instalado.
 - Realizar Migrations EntityFramework .NET
+- Necessário Certificados em pasta raiz .
 - Necessário acomplamento de serviços, o Reporter depende da execução de Producao.
   
 ```bash 
